@@ -1,0 +1,4 @@
+What is the correct data type for array_intersect() ?
+array, array
+array, string
+string, array
